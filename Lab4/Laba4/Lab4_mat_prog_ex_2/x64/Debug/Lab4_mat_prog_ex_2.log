@@ -1,0 +1,9 @@
+﻿  Lab4_mat_prog_ex_2.cpp
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(23,68): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(23,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(31,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(31,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(45,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(51,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Labs\Мат Прога\Lab4\Laba4\Lab4_mat_prog_ex_2\Lab4_mat_prog_ex_2.cpp(73,53): warning C4305: инициализация: усечение из "double" в "float"
+  Lab4_mat_prog_ex_2.vcxproj -> D:\Labs\Мат Прога\Lab4\Laba4\x64\Debug\Lab4_mat_prog_ex_2.exe

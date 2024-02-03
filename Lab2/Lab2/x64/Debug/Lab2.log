@@ -1,0 +1,18 @@
+﻿  Auxil.cpp
+  Boat.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Combi.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Permutations.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Accomodation.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Set.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Labs\Мат Прога\Lab2\Lab2\Set.cpp(41,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Knapsack.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Lab2.cpp
+D:\Labs\Мат Прога\Lab2\Lab2\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  Lab2.vcxproj -> D:\Labs\Мат Прога\Lab2\Lab2\x64\Debug\Lab2.exe
